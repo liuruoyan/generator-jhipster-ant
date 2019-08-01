@@ -1,0 +1,2 @@
+hello jhipster-ant!
+It's dummy.txt

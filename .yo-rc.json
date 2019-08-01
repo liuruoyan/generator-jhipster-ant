@@ -1,0 +1,10 @@
+{
+  "generator-jhipster-blueprint": {
+    "promptValues": {
+      "githubName": "liuruoyan",
+      "authorName": "chen",
+      "authorEmail": "chenchen@mayihr.com",
+      "authorUrl": "null"
+    }
+  }
+}
